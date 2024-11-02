@@ -1,2 +1,4 @@
 dataset/
 nltk_data/
+models/
+structured_data_classifier/
